@@ -32,8 +32,7 @@ Here are some ideas to get you started:
     <img src="https://miro.medium.com/1*IzSM8xp62GuZEh2WAn7UIA.png" alt="springwebflux" width="40" height="40"/>
   </a>
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-    <img src="<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/41060efd-576a-45ff-b663-8c778c9764c4" />
-" alt="maven" width="40" height="40"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/maven-5fyvzusc6iaxzlgex1ehyh.png/maven-ofzm78ztaq0doqa3ro37lt.png?_a=DATAg1AAZAA0" alt="maven" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
