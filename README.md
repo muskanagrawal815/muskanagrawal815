@@ -29,10 +29,11 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://docs.spring.io/spring-framework/reference/web/webflux.html" target="_blank" rel="noreferrer">
-    <img src="https://levelup.gitconnected.com/reactive-programming-with-spring-boot-webflux-d0bece5a291e" alt="springwebflux" width="40" height="40"/>
+    <img src="https://miro.medium.com/1*IzSM8xp62GuZEh2WAn7UIA.png" alt="springwebflux" width="40" height="40"/>
   </a>
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/svg/373829/maven" alt="maven" width="40" height="40"/>
+    <img src="<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/41060efd-576a-45ff-b663-8c778c9764c4" />
+" alt="maven" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
